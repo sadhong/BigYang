@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadhong
+- 👋 Hi, I’m @bigyang
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning python, django...
 
